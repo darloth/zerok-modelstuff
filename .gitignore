@@ -1,0 +1,3 @@
+#ignore the backup files, as git is solid enough.
+*.blend1
+*.blend2
